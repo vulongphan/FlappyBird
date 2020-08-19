@@ -1,0 +1,1 @@
+An important note: for processing to run a 'file_name.pyde', this file and a 'sketch.properties' file must be inside a folder named 'file_name'
